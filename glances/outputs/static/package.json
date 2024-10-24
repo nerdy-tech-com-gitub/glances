@@ -3,7 +3,7 @@
     "dependencies": {
         "bootstrap": "^3.4.1",
         "favico.js": "^0.3.10",
-        "hotkeys-js": "^3.10.2",
+        "hotkeys-js": "^3.13.7",
         "lodash": "^4.17.21",
         "sanitize-html": "^2.10.0",
         "vue": "^3.3.2"
